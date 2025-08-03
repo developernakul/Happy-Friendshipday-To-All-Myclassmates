@@ -18,9 +18,9 @@ export default function FinalMessageScreen() {
     "You mean the world to me...",
     "Through every laugh, every tear, every crazy adventure...",
     "You've been my constant, my support, my partner in crime! 🎉",
-    "Thank you for being the most amazing friend anyone could ask for! ✨",
+    "Thank you for being the most amazing friends anyone could ask for! ✨",
     "Here's to many more years of friendship, fun, and unforgettable memories! 🥳",
-    "Happy Friendship Day, my dear friend! 💖",
+    "Happy Friendship Day, To my all dear friend! 💖",
   ]
 
   const titleWords = ["HAPPY", "FRIENDSHIP", "DAY!"]
