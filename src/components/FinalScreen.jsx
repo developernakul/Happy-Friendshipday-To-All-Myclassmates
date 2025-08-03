@@ -14,7 +14,7 @@ export default function FinalMessageScreen() {
   const [floatingElements, setFloatingElements] = useState([])
 
   const messages = [
-    "Hey bestie! 💕",
+    "Hey Friends! 💕",
     "You mean the world to me...",
     "Through every laugh, every tear, every crazy adventure...",
     "You've been my constant, my support, my partner in crime! 🎉",
